@@ -4,7 +4,7 @@ Release:	2
 Summary:	Sudoku solver
 Group:		Games/Other
 License:	GPLv3+
-URL:		http://dansoft.krasnokamensk.ru/more.html?id=1032
+URL:		https://dansoft.krasnokamensk.ru/more.html?id=1032
 Source0:	%{name}-%{version}.tar.gz
 
 BuildRequires:	qt5-linguist-tools
